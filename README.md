@@ -1,0 +1,2 @@
+# Botify
+Spotify Discord Bot
